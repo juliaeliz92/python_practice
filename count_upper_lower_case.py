@@ -17,8 +17,5 @@ def count_upper_lower_case(string):
             lower_count += 1
     print('there are', upper_count, 'upper case letters and', lower_count, 'lower case letters in the string')
 
-count_upper_lower_case('My name is Julia')
-count_upper_lower_case('3.14')
-count_upper_lower_case('TESTING UPPER CASE')
-count_upper_lower_case('testing lower case')
+count_upper_lower_case(input('Enter a string'))
 
