@@ -1,6 +1,6 @@
 # Write a program to print the first n numbers of a Fibonacci sequence
 
-# method to fibannci series of n numbers
+# method to fibonacci series of n numbers
 # @args: input number
 # return None
 
